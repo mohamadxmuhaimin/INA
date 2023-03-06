@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: {add one-line description of the feature request}
 labels: enhancement
-assignees: SV-Zanshin
+assignees: Yosh-Muhaimin
 
 ---
 
